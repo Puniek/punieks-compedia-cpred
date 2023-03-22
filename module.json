@@ -1,15 +1,17 @@
 {
   "id": "punieks-compedia-cpred",
   "title": "Puniek's Compedia CPRED",
-  "description": "A collection of compedia for Cyberpunk RED.",
+  "description": "A collection of compedia for Cyberpunk RED both from books and homebrew. Personal Use Only. I do not own any included info.",
   "version": "1.0.0",
   "authors": [
     {
       "name": "Puniek"
     }
   ],
-  "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "1.0.70",
+  "compatibility": {
+	  "minimum": "9",
+	  "verified": "10"
+  }
   "packs": [
 	{
       "name": "actors-shops-charcreation",
@@ -159,6 +161,6 @@
       "system": "cyberpunk-red-core"
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/my-shared-content.zip"
+  "manifest": "https://github.com/Puniek/punieks-compedia-cpred/blob/main/module.json",
+  "download": "https://github.com/Puniek/punieks-compedia-cpred/archive/refs/heads/main.zip"
 }
