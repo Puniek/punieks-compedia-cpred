@@ -161,6 +161,6 @@
       "system": "cyberpunk-red-core"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Puniek/punieks-compedia-cpred/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/Puniek/punieks-compedia-cpred/main/module.json",
   "download": "https://github.com/Puniek/punieks-compedia-cpred/archive/refs/heads/main.zip"
 }
