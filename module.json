@@ -11,7 +11,7 @@
   "compatibility": {
 	  "minimum": "9",
 	  "verified": "10"
-  }
+  },
   "packs": [
 	{
       "name": "actors-shops-charcreation",
