@@ -1,0 +1,164 @@
+{
+  "id": "punieks-compedia-cpred",
+  "title": "Puniek's Compedia CPRED",
+  "description": "A collection of compedia for Cyberpunk RED.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Puniek"
+    }
+  ],
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "1.0.70",
+  "packs": [
+	{
+      "name": "actors-shops-charcreation",
+      "label": "[CPRED] Shops - Character Creation",
+      "path": "./packs/actors-shops-charcreation.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+	{
+      "name": "actors-playercharacters",
+      "label": "[CPRED] Player Characters",
+      "path": "./packs/actors-playercharacters.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-net-blackice",
+      "label": "[CPRED] Net - Black ICE",
+      "path": "./packs/actors-net-blackice.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-net-demons",
+      "label": "[CPRED] Net - Demons",
+      "path": "./packs/actors-net-demons.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-3goons",
+      "label": "[CPRED] Enemies - 3Goons",
+      "path": "./packs/actors-3goons.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-mooks",
+      "label": "[CPRED] Enemies - Mooks",
+      "path": "./packs/actors-mooks.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-lieutenants",
+      "label": "[CPRED] Enemies - Lieutenants",
+      "path": "./packs/actors-lieutenants.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-minibosses",
+      "label": "[CPRED] Enemies - Mini Bosses",
+      "path": "./packs/actors-minibosses.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "actors-bosses",
+      "label": "[CPRED] Enemies - Bosses",
+      "path": "./packs/actors-bosses.db",
+      "type": "Actor",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-weapons-oldweapons",
+      "label": "[CPRED] Weapons - Old Weapons",
+      "path": "./packs/items-weapons-oldweapons.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-weapons-oldweapons-ammo",
+      "label": "[CPRED] Weapons - Old Weapons Ammo",
+      "path": "./packs/items-weapons-oldweapons-ammo.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+	    {
+      "name": "items-customitems",
+      "label": "[CPRED] Items - Custom",
+      "path": "./packs/items-customitems.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-weapons-custom",
+      "label": "[CPRED] Weapons - Custom",
+      "path": "./packs/items-weapons-custom.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-weapons-customammo",
+      "label": "[CPRED] Weapons - Custom Ammo",
+      "path": "./packs/items-weapons-customammo.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-vehicles-custom",
+      "label": "[CPRED] Vehicles - Custom",
+      "path": "./packs/items-vehicles-custom.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "items-cyberware-custom",
+      "label": "[CPRED] Cyberware - Custom",
+      "path": "./packs/items-cyberware-custom.db",
+      "type": "Item",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "shared-scenes",
+      "label": "[CPRED] Shared Scenes",
+      "path": "./packs/scenes.db",
+      "type": "Scene",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "shared-journal-entries",
+      "label": "[CPRED] Shared Journal Entries",
+      "path": "./packs/journal-entries.db",
+      "type": "JournalEntry",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "shared-macros",
+      "label": "[CPRED] Shared Macros",
+      "path": "./packs/macros.db",
+      "type": "Macro",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "shared-roll-tables",
+      "label": "[CPRED] Shared Roll Tables",
+      "path": "./packs/roll-tables.db",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "shared-playlists",
+      "label": "[CPRED] Shared Playlists",
+      "path": "./packs/playlists.db",
+      "type": "Playlist",
+      "system": "cyberpunk-red-core"
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/my-shared-content.zip"
+}
